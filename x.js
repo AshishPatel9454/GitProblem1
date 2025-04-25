@@ -1,2 +1,3 @@
 x='ashsih'
-y='rash'
+y='rashi'
+z="ayush"
