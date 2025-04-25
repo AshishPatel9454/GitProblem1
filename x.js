@@ -1,2 +1,2 @@
 x='ashsih'
-y='rashid'
+y='rash'
